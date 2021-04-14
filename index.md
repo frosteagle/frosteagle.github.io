@@ -1,3 +1,15 @@
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3XS0P6QVN0"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'G-3XS0P6QVN0');
+</script>
+</head>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/frosteagle/frosteagle.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
